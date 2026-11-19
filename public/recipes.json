@@ -1,0 +1,83 @@
+[
+  {
+    "id": "rec-001",
+    "title": "Tiramisù della Nonna",
+    "category": "Dolce",
+    "nationality": "Italiana",
+    "servings": 6,
+    "favorite": true,
+    "imageUrl": "https://images.unsplash.com/photo-1571877227200-a0d98ea607e9?auto=format&fit=crop&w=800&q=80",
+    "ingredients": [
+      { "name": "Savoiardi", "amount": 300, "unit": "g" },
+      { "name": "Mascarpone", "amount": 500, "unit": "g" },
+      { "name": "Uova fresche", "amount": 4, "unit": "pz" },
+      { "name": "Zucchero", "amount": 100, "unit": "g" },
+      { "name": "Caffè espresso", "amount": 300, "unit": "ml" },
+      { "name": "Cacao amaro in polvere", "amount": 20, "unit": "g" },
+      { "name": "Cacao amaro per spolverare", "amount": "q.b.", "unit": "" }
+    ],
+    "instructions": "Preparare il caffè e lasciarlo raffreddare. Montare i tuorli con lo zucchero fino a ottenere un composto spumoso, quindi unire il mascarpone. Incorporare gli albumi montati a neve, alternare strati di savoiardi bagnati nel caffè e crema, infine spolverare con cacao amaro.",
+    "sourceType": "personal",
+    "customNotes": "Riposo in frigorifero di almeno 4 ore prima di servire."
+  },
+  {
+    "id": "rec-002",
+    "title": "Tacos al Pastor",
+    "category": "Piatto Unico",
+    "nationality": "Messicana",
+    "servings": 4,
+    "favorite": false,
+    "imageUrl": "https://images.unsplash.com/photo-1551504734-5ee1c4a1479b?auto=format&fit=crop&w=800&q=80",
+    "ingredients": [
+      { "name": "Lonza di maiale a fettine", "amount": 600, "unit": "g" },
+      { "name": "Tortillas di mais", "amount": 8, "unit": "pz" },
+      { "name": "Ananas fresco a cubetti", "amount": 200, "unit": "g" },
+      { "name": "Cipolla bianca tritata", "amount": 1, "unit": "pz" },
+      { "name": "Succo d'arancia", "amount": 100, "unit": "ml" },
+      { "name": "Sale e spezie", "amount": "q.b.", "unit": "" }
+    ],
+    "instructions": "Marinare la carne con succo d'arancia e spezie per almeno 2 ore. Cuocere la carne su piastra rovente e tagliarla a striscioline. Scaldare le tortillas e farcirle con carne, ananas grigliato, cipolla e lime.",
+    "sourceType": "web",
+    "customNotes": "Ridotto il peperoncino e sostituito il coriandolo con prezzemolo fresco."
+  },
+  {
+    "id": "rec-003",
+    "title": "Ramen Veloce",
+    "category": "Piatto Unico",
+    "nationality": "Giapponese",
+    "servings": 2,
+    "favorite": false,
+    "imageUrl": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=800&q=80",
+    "ingredients": [
+      { "name": "Noodles per ramen freschi", "amount": 200, "unit": "g" },
+      { "name": "Brodo vegetale o di carne", "amount": 800, "unit": "ml" },
+      { "name": "Salsa di soia", "amount": 30, "unit": "ml" },
+      { "name": "Uova sode marinate", "amount": 2, "unit": "pz" },
+      { "name": "Cipollotti e alga nori", "amount": 2, "unit": "pz" },
+      { "name": "Semi di sesamo", "amount": "q.b.", "unit": "" }
+    ],
+    "instructions": "Scaldare il brodo con zenzero e salsa di soia. Cuocere i noodles al dente a parte e scolarli nelle ciotole. Versare il brodo bollente e completare con l'uovo tagliato a metà, cipollotti a rondelle e alga nori.",
+    "sourceType": "web",
+    "customNotes": "Uovo cotto esattamente 6 minuti per avere il tuorlo morbido."
+  },
+  {
+    "id": "rec-004",
+    "title": "Sachertorte Tradizionale",
+    "category": "Dolce",
+    "nationality": "Austriaca",
+    "servings": 8,
+    "favorite": true,
+    "imageUrl": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?auto=format&fit=crop&w=800&q=80",
+    "ingredients": [
+      { "name": "Cioccolato fondente", "amount": 150, "unit": "g" },
+      { "name": "Burro morbido", "amount": 130, "unit": "g" },
+      { "name": "Zucchero semolato", "amount": 150, "unit": "g" },
+      { "name": "Farina 00", "amount": 130, "unit": "g" },
+      { "name": "Uova medie", "amount": 6, "unit": "pz" },
+      { "name": "Confettura di albicocche", "amount": 200, "unit": "g" },
+      { "name": "Panna montata", "amount": "q.b.", "unit": "" }
+    ],
+    "instructions": "Lavorare il burro con lo zucchero, unire i tuorli e il cioccolato fuso tiepido. Incorporare gli albumi montati a neve e la farina. Cuocere a 170°C per 50 minuti, farcire a metà con confettura di albicocche e ricoprire con glassa al cioccolato.",
+    "sourceType": "personal"
+  }
+]
